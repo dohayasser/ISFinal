@@ -1,0 +1,87 @@
+#SeeGrades {
+  margin-top: 10px;
+  background-color: #00d2d3;
+  padding:5px;
+  color:white;
+  width:30%;
+  text-align: center;
+  font-size: 18px;
+  display: inline-block;
+  border: none;
+  cursor: pointer;
+  border:2px solid #4CAF50;
+}
+
+#SeeGrades:hover{
+background-color: #008CBA;
+color:;
+}
+#mybut {
+     background:none!important;
+     color:#4CAF50;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     border is optional
+     border-bottom:1px solid #444; 
+     cursor: pointer;
+     position: absolute;
+     left:  75%;
+     top:10%;
+}
+
+#label {
+  border: none;
+  color: #4CAF50; /* Green */
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 27px;
+  font-family: fantasy;
+}
+#labely {
+  border: none;
+  color: #4CAF50; /* Green */
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+  font-family: fantasy;
+}
+#input {
+  border: none;
+  color: : navy;
+  padding: 30px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+}
+#Header {
+	 border: none;
+  color: : navy;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  font-family: TimeRomans;
+
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
